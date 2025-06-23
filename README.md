@@ -1,6 +1,6 @@
 ## Adidas Sales Report Dashboard
 
-![Adidas Sales Report]("C:\Users\HET\OneDrive\Pictures\Screenshots\Screenshots\Screenshot 2025-06-23 142821.png")
+![Adidas Sales Report]()
 Adidas Sales Report Dashboard
 This Power BI dashboard provides a comprehensive analysis of Adidas sales performance across different regions, time periods, and product categories. The report is designed to help stakeholders gain insights into key sales metrics, profitability, and regional distribution.
 
